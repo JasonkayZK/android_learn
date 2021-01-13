@@ -16,8 +16,8 @@ A repo to learn Android.
 
 | **项目**                                                  | **日期**   | **说明**     |
 | --------------------------------------------------------- | ---------- | ------------ |
-| [HelloWorld](https://github.com/JasonkayZK/android_learn) | 2021-01-13 | 开发环境配置 |
-|                                                           |            |              |
+| [HelloWorld](https://github.com/JasonkayZK/android_learn) | 2021-01-12 | 开发环境配置 |
+| [Kotlin](https://github.com/JasonkayZK/kotlin_learn)      | 2021-01-13 | 学习Kotlin   |
 |                                                           |            |              |
 
 
